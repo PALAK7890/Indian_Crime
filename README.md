@@ -106,6 +106,11 @@ This project performs an in-depth Exploratory Data Analysis (EDA) on an Indian c
 4. Explore visualizations and SQL queries
 
 ---
+## 📊 Tableau Dashboard
+
+🔗 View Dashboard: https://public.tableau.com/app/profile/palak.5572/viz/Book1_17749757710730/Dashboard1?publish=yes
+
+---
 
 ## 💡 Future Improvements
 
