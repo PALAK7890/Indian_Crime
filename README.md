@@ -1,12 +1,17 @@
 # Indian Crime Data Analysis Project
 
-## 📌 Overview
+##  Overview
 
 This project performs an in-depth Exploratory Data Analysis (EDA) on an Indian crime dataset to uncover patterns, trends, and insights across cities, crime types, and time. The goal is to transform raw data into meaningful insights using data cleaning, visualization, and SQL-based analysis.
 
 ---
+## Tableau Dashboard
 
-## 🎯 Objectives
+View Dashboard: https://public.tableau.com/app/profile/palak.5572/viz/Book1_17749757710730/Dashboard2?publish=yes
+
+---
+
+##  Objectives
 
 * Analyze crime distribution across cities and states
 * Identify trends over years and peak crime periods
@@ -16,7 +21,7 @@ This project performs an in-depth Exploratory Data Analysis (EDA) on an Indian c
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 * **Python** (Pandas, NumPy)
 * **Data Visualization**: Matplotlib, Seaborn
@@ -25,7 +30,7 @@ This project performs an in-depth Exploratory Data Analysis (EDA) on an Indian c
 
 ---
 
-## 🔄 Workflow
+## Workflow
 
 ### 1. Data Collection
 
@@ -66,7 +71,7 @@ This project performs an in-depth Exploratory Data Analysis (EDA) on an Indian c
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 
 * **Most Dangerous City:** Mumbai
 * **Most Common Crime:** Theft
@@ -78,7 +83,7 @@ This project performs an in-depth Exploratory Data Analysis (EDA) on an Indian c
 
 ---
 
-## 📈 Sample Visualizations
+## Sample Visualizations
 
 * Bar charts for crime distribution
 * Line plots for yearly trends
@@ -87,10 +92,10 @@ This project performs an in-depth Exploratory Data Analysis (EDA) on an Indian c
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
-📁 Crime-Data-Analysis
+ Crime-Data-Analysis
 │── Crime.ipynb          # Main notebook
 │── crime.db             # SQLite database
 │── README.md            # Project documentation
@@ -98,7 +103,7 @@ This project performs an in-depth Exploratory Data Analysis (EDA) on an Indian c
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository
 2. Open the notebook in Jupyter/Colab
@@ -106,13 +111,9 @@ This project performs an in-depth Exploratory Data Analysis (EDA) on an Indian c
 4. Explore visualizations and SQL queries
 
 ---
-## 📊 Tableau Dashboard
 
-🔗 View Dashboard: https://public.tableau.com/app/profile/palak.5572/viz/Book1_17749757710730/Dashboard1?publish=yes
 
----
-
-## 💡 Future Improvements
+##  Future Improvements
 
 * Add interactive dashboards (Plotly / Power BI)
 * Build predictive models for crime forecasting
@@ -121,10 +122,7 @@ This project performs an in-depth Exploratory Data Analysis (EDA) on an Indian c
 
 ---
 
-## 🙌 Conclusion
+##  Conclusion
 
 This project demonstrates strong skills in data cleaning, EDA, visualization, and SQL integration. It provides meaningful insights into crime patterns and showcases the ability to turn raw data into impactful stories.
 
----
-
-⭐ If you like this project, consider giving it a star!
